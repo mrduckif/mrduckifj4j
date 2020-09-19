@@ -84,4 +84,4 @@ client.on("ready", () => {
       }, 60000);
 })
 
-client.login("token") // user tokeniniz
+client.login("NzU2ODQ0NDE2MTYwODkwOTQy.X2XwpQ.6xkP5pgv9ZsFDpTgC7-d9TcvP08") // user tokeniniz
